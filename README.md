@@ -21,7 +21,7 @@
 ## Contact
 
 <a href="https://www.linkedin.com/in/yashraj8959/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-DiegoJanuario-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Yashraj8959?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 <!--
